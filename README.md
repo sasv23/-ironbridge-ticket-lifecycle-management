@@ -77,8 +77,9 @@ Restarting the scanner restored service, but nothing about the cause changed, so
 **The fourth identical ticket is not an incident.**
 Incidents are events and a problem is a pattern, which means that once the pattern has been noticed, it then becomes the service desk's job. Noticing turns a repeated incident into a problem ticket with an owner, so the cause gets fixed for good.
 
-**The tool doesn't always match the checklist**
+**The tool doesn't always match the checklist.**
 When I tried to resolve my first ticket, the Resolution dropdown was empty and I couldn’t close anything. I had to find the Resolutions list in Jira’s admin settings and add Done myself. It taught me to check the settings behind a feature when it doesn’t work, not just retry the feature.
+
 ---
 
 *Built as part of the TotalThreat IT & IAM Career Accelerator. Ironbridge Bank & Trust is a simulated enterprise environment and not a real employer. The service desk configuration, documentation and ticket handling in this repository are my own work.*
